@@ -1,0 +1,4 @@
+pelican-fresh-demo
+==================
+
+blog
